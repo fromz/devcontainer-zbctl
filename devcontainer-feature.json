@@ -1,0 +1,7 @@
+{
+    "id": "zbctl",
+    "version": "1.0.0",
+    "name": "zbctl",
+    "description": "Installs the zeebe CLI (zbctl)",
+    "documentationURL": "https://github.com/fromz/devcontainer-zbctl/blob/master/README.md"
+}
